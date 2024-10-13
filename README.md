@@ -5,7 +5,7 @@
 
 1.Klädda kort (Knekt, Dam, Kung) har ett värde av *10*.
 
-2.Ess kan ha antingen värdet 1 eller 11: a. Spelaren väljer värdet på esset. b. För dealern (datorn) har esset värdet __*1*__ om summan är större än 10, eller 11 om summan är __*10*__ eller mindre.
+2.Ess kan ha antingen värdet 1 eller 11: a. Spelaren väljer värdet på esset. b. För dealern (datorn) har esset värdet __*1*__ om summan är större än 10, eller __*11*__ om summan är 10 eller mindre.
 
 3.Dealern och spelaren drar kort från _samma_ kortlek.
 
