@@ -1,13 +1,13 @@
 # IndividuellUppgift-AmyP
-TwentyOne game
+## TwentyOne game
 
-Regler för mitt program Tjugoett (Blackjack):
+**Regler för mitt program _Tjugoett_ (Blackjack):**
 
-1.Klädda kort (Knekt, Dam, Kung) har ett värde av 10.
+1.Klädda kort (Knekt, Dam, Kung) har ett värde av *10*.
 
-2.Ess kan ha antingen värdet 1 eller 11: a. Spelaren väljer värdet på esset. b. För dealern (datorn) har esset värdet 1 om summan är större än 10, eller 11 om summan är 10 eller mindre.
+2.Ess kan ha antingen värdet 1 eller 11: a. Spelaren väljer värdet på esset. b. För dealern (datorn) har esset värdet __*1*__ om summan är större än 10, eller 11 om summan är __*10*__ eller mindre.
 
-3.Dealern och spelaren drar kort från samma kortlek.
+3.Dealern och spelaren drar kort från _samma_ kortlek.
 
 4.När ett kort dras, tas det bort från kortleken för att säkerställa att det inte visas igen.
 
